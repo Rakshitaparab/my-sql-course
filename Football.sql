@@ -261,7 +261,7 @@ SELECT
 FROM
     #Leaguetable
 GROUP BY team
-order by team;
+order by team; 
 
 
 
